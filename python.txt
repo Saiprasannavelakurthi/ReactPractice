@@ -1,0 +1,36 @@
+append()
+append() is use to add element at end of  the list
+
+append() and extend()
+append() will add and return the elements but will not update
+extend() will update the list 
+
+insert()
+insert will add elements at specific index of the list
+
+remove()
+remove() will remove the element from the list
+
+gives error-element is not present in the list
+
+pop() and pop(index)
+pop() will remove the last element from the list
+pop(index) will remove the specific value from the list
+
+clear()
+clear() will remove all the elements and return empty list
+
+count()
+used to count the frequency of the element in a collection
+
+sort()
+used to sort the elements in ascending order in a list
+
+sort(reverse==True)
+
+reverse()
+used to reverse the list
+
+
+
+
